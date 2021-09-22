@@ -1,0 +1,32 @@
+img {
+    width: 100%;
+    height: auto;
+}
+
+.top-footer{
+    background-image: url("img/learn.png");
+    height: 1000px;
+    background-size: cover;
+    background-position: center;
+}
+
+.header{
+    margin-bottom: 15px;
+}
+
+.section{
+    margin-bottom: 15px;
+}
+
+.main-iner{
+    border: 1px solid #000;
+    padding: 10px;
+    margin-top: 100px;
+}
+
+.main-iner a{
+    background-color: red;
+    padding: 7px 30px;
+    color: white;
+    border-radius: 5px;
+}
